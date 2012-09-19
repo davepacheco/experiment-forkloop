@@ -1,0 +1,10 @@
+{
+	"name": "forkloop",
+	"description": "test illumos_contract",
+	"version": "0.0.1",
+	"author": "Joyent (joyent.com)",
+	"private": true,
+	"dependencies": {
+		"illumos_contract": "0.0.7"
+	}
+}
